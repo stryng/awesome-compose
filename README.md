@@ -1,6 +1,7 @@
 # Awesome Compose [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ![logo](awesome-compose.jpg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fstryng%2Fawesome-compose.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fstryng%2Fawesome-compose?ref=badge_shield)
 
 > A curated list of Docker Compose samples.
 
@@ -93,3 +94,7 @@ docker-compose down
 
 We welcome examples that help people understand how to use Docker Compose for
 common applications. Check the [Contribution Guide](CONTRIBUTING.md) for more details. 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fstryng%2Fawesome-compose.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fstryng%2Fawesome-compose?ref=badge_large)
